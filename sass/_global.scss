@@ -1,0 +1,15 @@
+
+.wrapper {
+    max-width: 1918px;
+    margin: 0 auto;
+    position: relative;
+    &__body {
+        display: flex;
+    }
+}
+
+
+
+body {
+    font-family: "Roboto", sans-serif;
+}
